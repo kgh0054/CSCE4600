@@ -18,4 +18,4 @@ Choose any command:
   cat requires a filename
   echo requires at least one word
 
-Exit by typing exit
+Exit by typing `exit`
